@@ -20,7 +20,7 @@ How can i create full node for aptos.
 
 ## 2. Setup Step By Step
 
-**Firs Step Install Screen and Docker**
+**First Step Install Screen and Docker**
 
 ```sudo apt install screen```
 
