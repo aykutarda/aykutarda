@@ -8,12 +8,17 @@ How can i create full node for aptos.
 
 ## 1. Requirements
 
-**Minimum** Requirements:
- - **CPU**: 2 Cores
- - **RAM**: 4GB Ram
- - **Storage**: 160GB Storage
+**If running the Fullnode for development or testing purpose**:
 
-***Full Node Guide***
+**CPU**: 2 cores
+**Memory**: 4GiB RAM
+
+**For running a production grade Fullnode we recommend using hardware with**:
+
+**CPU**: Intel Xeon Skylake or newer, 4 cores
+**Memory**: 8GiB RAM
+
+## 2. Setup Step By Step
 
 **Firs Step Install Screen and Docker**
 
