@@ -9,6 +9,9 @@ How can i complete first_transaction.py step.
 ## 1. Requirements
 
 **If running the Fullnode you are ready for this step**:
+**Install python3 with this code**;
+
+```pip install pynacl```
 
 
 ## 2. First Transaction Step By Step
