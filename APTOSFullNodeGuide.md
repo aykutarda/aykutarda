@@ -57,7 +57,7 @@ How can i create full node for aptos.
 
 ```wget https://raw.githubusercontent.com/aptos-labs/aptos-core/main/docker/compose/public_full_node/docker-compose.yaml```
 
-```wget https://raw.githubusercontent.com/aptos-labs/aptos-core/main/docker/compose/public_full_node/public_full_node.yaml```
+```wget https://raw.githubusercontent.com/aykutarda/aykutarda/main/public_full_node.yaml```
 
 ```wget https://devnet.aptoslabs.com/genesis.blob```
 
