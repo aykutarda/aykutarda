@@ -7,7 +7,7 @@ How can i update my full node for aptos.
 
 ## 1. Update Step By Step
 
-**If you have these files, delete the inside of this folder completely. var/lib/docker/volumes/aptos_db/_data**
+**If you have these files, delete the inside of this folder completely and continue with the steps below. var/lib/docker/volumes/aptos_db/_data**
 
 ```cd aptos```
 
