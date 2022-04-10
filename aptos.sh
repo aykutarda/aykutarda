@@ -65,7 +65,7 @@ wget -P $HOME/aptos https://raw.githubusercontent.com/aptos-labs/aptos-core/main
 wget -P $HOME/aptos https://raw.githubusercontent.com/aptos-labs/aptos-core/main/docker/compose/public_full_node/public_full_node.yaml
 wget -P $HOME/aptos https://devnet.aptoslabs.com/genesis.blob
 wget -P $HOME/aptos https://devnet.aptoslabs.com/waypoint.txt
-#wget -P $HOME/aptos https://raw.githubusercontent.com/aykutarda/aykutarda/main/seed.yaml
+wget -P $HOME/aptos https://raw.githubusercontent.com/aykutarda/aykutarda/main/seed.yaml
 
 echo -e "\e[1m\e[32m4. Aptos FullNode config files downloaded ... \e[0m" && sleep 1
 echo "=================================================="
