@@ -97,7 +97,7 @@ wget -qO fullnode.yaml https://raw.githubusercontent.com/aptos-labs/aptos-core/m
 
 ### Anahtarları Oluşturma
 
-Bu adımda şu 3 dosya oluşturulacaktır: `private-keys.yaml`, `validator-identity.yaml`, `validator-full-node-identity.yaml` for you.
+Bu adımda şu 3 dosya oluşturulacaktır: `private-keys.yaml`, `validator-identity.yaml`, `validator-full-node-identity.yaml`
 ```
 aptos genesis generate-keys --output-dir ~/$WORKSPACE
 
