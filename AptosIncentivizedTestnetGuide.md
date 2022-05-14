@@ -161,16 +161,16 @@ docker compose up -d
 
 **Tebrikler , içerdesiniz.**
 
-##Yarayışlı Kodlar##
+### Yarayışlı Kodlar
 
-##Senkronize durumunuzu kontrol edin##
+### Senkronize durumunuzu kontrol edin
 
 ```
 curl 127.0.0.1:9101/metrics 2> /dev/null | grep aptos_state_sync_version | grep type
 
 ```
 
-##Loglara göz atın.##
+### Loglara göz atın.
 
 ```
 docker logs -f aptos-fullnode-1 --tail 5000
